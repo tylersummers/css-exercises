@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 80, 188);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#banana {
+    color: rgb(101, 150, 255);
+    font-size: 36px;
+}
+
+.recorder {
+    font-size: 24px;
+}
+
+.ratchet {
+    background-color:rgb(62, 255, 158);
+    font-size: 24px;
+    font-weight: bold;
+}
